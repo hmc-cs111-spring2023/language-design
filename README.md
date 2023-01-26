@@ -1,5 +1,5 @@
 [teams]: https://github.com/hmc-cs111-fall2016/language-design/wiki/Teams
-[betterdesign]: https://www.fastcodesign.com/1665735/why-arent-computer-programming-languages-designed-better
+[betterdesign]: https://www.fastcompany.com/1665735/why-arent-computer-programming-languages-designed-better
 [apipdf]: https://dl.acm.org/citation.cfm?id=1176617.1176622&coll=DL&dl=GUIDE&CFID=372348918&CFTOKEN=51331222
 [apitalk]: https://www.youtube.com/watch?v=aAb7hSCtvGw
 [growpdf]: https://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf
@@ -86,6 +86,9 @@ Good responses will:
 Great responses will go a bit beyond, e.g., by using (and citing) a source outside of the
 readings. Here are some excellent additional readings:
 
+- [_C is Manly, Python is for “n00bs”: How False Stereotypes Turn Into
+  Technical "Truths"_][languagestereotypes] by Jean Yang & Ari Rabkin
+  - cite as: [Yang and Rabkin, 2015]
 - [_When and How to Develop Domain-Specific Languages_][whenandhow]\* by
   Marjan Mernik, Jan Heering, and Anthony M. Sloane
   - cite as: [Mernik _et al._, 2005]
@@ -97,9 +100,6 @@ readings. Here are some excellent additional readings:
   - cite as: [Stefik _et al._, 2011]
   - Raises the question: Is Perl's syntax design any better than a randomly
     designed syntax?
-- [_C is Manly, Python is for “n00bs”: How False Stereotypes Turn Into
-  Technical "Truths"_][languagestereotypes] by Jean Yang & Ari Rabkin
-  - cite as: [Yang and Rabkin, 2015]
 
 _\*These papers belong to the Association for Computing Machinery's digital
 library. You should be able to access them from any computer on the Claremont
