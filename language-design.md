@@ -5,19 +5,17 @@ corresponding question._
 
 **Question**
 
-Pick three quotes from the readings about language design. Good candidates 
+Pick three quotes from the readings about language design. Good candidates
 are:
 
-   + Something you agreed with / resonates with your own experience
-   + Something you disagree with
-   + Something that is interesting, a new idea or perspective you'd like to remember
-   + Something you didn't understand
+- Something you agreed with / resonates with your own experience
+- Something you disagree with
+- Something that is interesting, a new idea or perspective you'd like to remember
+- Something you didn't understand
 
 For each quote, describe what it was about the quote that led you pick it.
 
 **Response**
-
-
 
 ---
 
@@ -28,28 +26,22 @@ you know a poorly designed language? What are the symptoms?
 
 **Response**
 
+---
 
+**Question**
+
+How might the themes of _Growing a Language_ relate to notions of fluency from last week's
+class?
+
+**Response**
 
 ---
 
 **Question**
 
-How do the themes of _Growing a Language_ relate to the "sound lab" we did this week?
+In what way is an API a language?
 
 **Response**
-
-
-
----
- 
-**Question**
-
-
-In what way is an API a language? 
-
-**Response**
-
-
 
 ---
 
@@ -59,29 +51,15 @@ What does the post on grayscale tell us about the process of API design?
 
 **Response**
 
-
-
----
-
-**Question**
-
-The Yang and Rabkin article talks mainly about general-purpose languages. In 
-what ways do the themes apply to the study and creation of DSLs?
-
-**Response**
-
-
-
 ---
 
 **Question**
 
 The Pavlus article mentions the researchers' comments that people preferred
-"natural-language replacements for some of the more abstruse syntax". In other 
+"natural-language replacements for some of the more abstruse syntax". In other
 words, people found it easier to work with code that looks more like a human language (e.g.,
 English). Consider the following quote by William R. Cook, one of the creators
 of AppleScript:
-
 
 > The experiment in designing a language that resembled natural languages (English
 > and Japanese) was not successful. It was assumed that scripts should be
@@ -94,24 +72,12 @@ of AppleScript:
 > language, like any other programming language. … even small changes to the
 > script may introduce subtle syntactic errors that baffle users. It is easy to
 > read AppleScript, but quite hard to write it.
-[[Cook 2007, page 1-20]](https://dl.acm.org/citation.cfm?doid=1238844.1238845)
+> [[Cook 2007, page 1-20]](https://dl.acm.org/citation.cfm?doid=1238844.1238845)
 
 Are these two experiences of natural languages at odds with one another? Would
 you choose to include natural language in the design of a DSL? If so, how might
 you do so? If not, why not?
 
 **Response**
-
-
-
----
-
-**Question**
-
-Briefly describe how you split up the work for this assignment.
-
-**Response**
-
-
 
 ---
