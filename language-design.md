@@ -30,8 +30,7 @@ you know a poorly designed language? What are the symptoms?
 
 **Question**
 
-How might the themes of _Growing a Language_ relate to notions of fluency from last week's
-class?
+How might the themes of _Growing a Language_ relate to ideas from the Fowler reading?
 
 **Response**
 
